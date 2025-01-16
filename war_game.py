@@ -54,7 +54,7 @@ class Card:
         return "%s of %s" % (self.face, self.suit)
 
 
-class Deck:
+class Deck: #  change two
 
     # The constructor method for the Deck.
     # It takes no parameters.
